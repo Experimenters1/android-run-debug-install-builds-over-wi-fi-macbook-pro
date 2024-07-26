@@ -72,4 +72,27 @@ npx react-native run-android
 https://chatgpt.com/c/5a61ab55-e6d7-4d90-87e7-020eb6271da3
 
 
+### ./gradle clean 
+
+**Ý nghĩa:** <br>
+Lệnh này được sử dụng để xóa thư mục **build** trong dự án của bạn. Thư mục **build** chứa các file tạm thời và các kết quả biên dịch trước đó. Khi bạn chạy lệnh **clean, Gradle** sẽ xóa tất cả các file này để đảm bảo rằng lần xây dựng **(build)** tiếp theo sẽ diễn ra từ đầu **(fresh build).** <br><br>
+
+```sh
+./gradlew clean
+
+```
+
+
+###  ./gradle --stop:
+**Ý nghĩa:** <br>
+Lệnh này được sử dụng để dừng tất cả các daemon Gradle đang chạy. Gradle daemon là một tiến trình chạy ngầm nhằm tăng tốc độ xây dựng dự án. Tuy nhiên, đôi khi bạn cần dừng các daemon này, chẳng hạn như khi bạn muốn giải phóng bộ nhớ hoặc khi gặp vấn đề với daemon hiện tại. <br><br>
+
+```sh
+./gradlew --stop
+
+```
+
+
+
+
 
