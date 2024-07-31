@@ -93,6 +93,11 @@ Lệnh này được sử dụng để dừng tất cả các daemon Gradle đan
 ```
 
 
+### IDE android studio : 
+
+![Screenshot 2024-07-31 at 13 26 43](https://github.com/user-attachments/assets/3a8fe290-4794-4079-86c2-a88daa14fdc2) <br><br>
+![Screenshot 2024-07-31 at 13 29 16](https://github.com/user-attachments/assets/a41bafad-e56e-4cf1-9acb-2f6ab3b9a276) <br><br>
+
 
 
 
